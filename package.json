@@ -1,0 +1,22 @@
+{
+  "name": "testgmail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "cheerio": "^1.0.0-rc.12",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "googleapis": "^105.0.0",
+    "http-server": "^14.1.1",
+    "js-base64": "^3.7.7",
+    "mailparser": "^3.7.1",
+    "open": "^10.1.0"
+  }
+}
