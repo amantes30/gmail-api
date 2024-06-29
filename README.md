@@ -1,5 +1,5 @@
 # Required File
-Click the link to setup your porject and get your <a href="https://console.developers.google.com/apis/credentials">Credentials</a>.
+Click the link to setup your project and get your <a href="https://console.developers.google.com/apis/credentials">Credentials</a>.
 
 Download the JSON file
 
