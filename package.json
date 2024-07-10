@@ -1,7 +1,7 @@
 {
   "name": "testgmail",
   "version": "1.0.0",
-  "description": "",
+  "description": "Click the link to setup your porject and get your <a href=\"https://console.developers.google.com/apis/credentials\">Credentials</a>.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +18,7 @@
     "js-base64": "^3.7.7",
     "mailparser": "^3.7.1",
     "open": "^10.1.0"
-  }
+  },
+  "devDependencies": {},
+  "keywords": []
 }
